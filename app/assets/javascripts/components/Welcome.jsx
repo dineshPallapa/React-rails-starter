@@ -1,5 +1,5 @@
-var Welcome = React.createClass({
-  render: function() {
+class Welcome extends React.Component{
+  render() {
     return (
       <div>
         <h1>Welcome</h1>
@@ -7,4 +7,12 @@ var Welcome = React.createClass({
       </div>
     );
   }
-});
+};
+
+let documentReady = () => {
+  ReactDOM.render(
+    <Welcome />, document.getElementById('react')
+  );
+};
+
+$(documentReady)

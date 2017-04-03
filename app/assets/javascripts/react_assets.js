@@ -68,13 +68,12 @@
 /* 0 */
 /* unknown exports provided */
 /* all exports used */
-/*!*******************************************************!*\
-  !*** ./app/assets/javascripts/components/Welcome.jsx ***!
-  \*******************************************************/
+/*!**********************************************!*\
+  !*** ./app/assets/javascripts/components.js ***!
+  \**********************************************/
 /***/ function(module, exports) {
 
-"use strict";
-eval("\"use strict\";\n\nvar Welcome = React.createClass({\n  displayName: \"Welcome\",\n\n  render: function render() {\n    return React.createElement(\n      \"div\",\n      null,\n      React.createElement(\n        \"h1\",\n        null,\n        \"Welcome To dashboard\"\n      ),\n      React.createElement(Layout, null)\n    );\n  }\n});//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMC5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy9hcHAvYXNzZXRzL2phdmFzY3JpcHRzL2NvbXBvbmVudHMvV2VsY29tZS5qc3g/YjhhMyJdLCJzb3VyY2VzQ29udGVudCI6WyJ2YXIgV2VsY29tZSA9IFJlYWN0LmNyZWF0ZUNsYXNzKHtcbiAgcmVuZGVyOiBmdW5jdGlvbigpIHtcbiAgICByZXR1cm4gKFxuICAgICAgPGRpdj5cbiAgICAgICAgPGgxPldlbGNvbWUgVG8gZGFzaGJvYXJkPC9oMT5cbiAgICAgICAgPExheW91dCAvPlxuICAgICAgPC9kaXY+XG4gICAgKTtcbiAgfVxufSk7XG5cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gYXBwL2Fzc2V0cy9qYXZhc2NyaXB0cy9jb21wb25lbnRzL1dlbGNvbWUuanN4Il0sIm1hcHBpbmdzIjoiOztBQUFBO0FBQUE7QUFDQTtBQUFBO0FBQ0E7QUFDQTtBQUFBO0FBQ0E7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUNBO0FBRkE7QUFLQTtBQVJBIiwic291cmNlUm9vdCI6IiJ9");
+eval("//= require_tree ./components\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMC5qcyIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL2FwcC9hc3NldHMvamF2YXNjcmlwdHMvY29tcG9uZW50cy5qcz8zMjRkIl0sInNvdXJjZXNDb250ZW50IjpbIi8vPSByZXF1aXJlX3RyZWUgLi9jb21wb25lbnRzXG5cblxuXG4vLy8vLy8vLy8vLy8vLy8vLy9cbi8vIFdFQlBBQ0sgRk9PVEVSXG4vLyAuL2FwcC9hc3NldHMvamF2YXNjcmlwdHMvY29tcG9uZW50cy5qc1xuLy8gbW9kdWxlIGlkID0gMFxuLy8gbW9kdWxlIGNodW5rcyA9IDAiXSwibWFwcGluZ3MiOiJBQUFBOyIsInNvdXJjZVJvb3QiOiIifQ==");
 
 /***/ }
 /******/ ]);

@@ -2,7 +2,7 @@ var path = require("path");
 
 module.exports = {
     entry: { 
-      path: path.join(__dirname, 'app', 'assets', 'javascripts','components','Welcome')
+      path: path.join(__dirname, 'app', 'assets', 'javascripts','components')
     },
 
     output: {

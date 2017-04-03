@@ -1,7 +1,7 @@
-var Layout = React.createClass({
-  render: function(){
+class Layout extends React.Component{
+  render() {
     return (
       <p>Get started with React</p>
     )
   } 
-});
+};
