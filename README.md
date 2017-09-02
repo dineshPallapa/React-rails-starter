@@ -1,5 +1,7 @@
 # README
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dineshPallapa/React-rails-starter.svg)](https://greenkeeper.io/)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
